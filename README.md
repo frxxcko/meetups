@@ -1,3 +1,7 @@
+# Meetups project with ReactJS
+
+This project is a prelude to a more ambitious project wich I'll incorpore .NET Core for Backend and ReactJS as a Front technology.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
