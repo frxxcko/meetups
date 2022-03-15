@@ -11,7 +11,7 @@ function App() {
   return (
     <Layout>
       <Switch>
-        <Route path='/' exact>
+        <Route path='/meetups-react-js'>
           <AllMeetUps />
         </Route>
 
