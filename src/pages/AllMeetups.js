@@ -1,5 +1,4 @@
 import DUMMY_DATA from '../DUMMY_DATA/dummy_data';
-import classes from './estilos/AllMeetups.module.css';
 import MeetupList from '../components/Meetups/MeetupList';
 
 function AllMeetups() {

@@ -5,7 +5,6 @@ import Favorites from './pages/Favorites'
 import NewMeetUp from './pages/NewMeetup'
 
 import Layout from './components/layout/Layout';
-import MainNavigation from './components/layout/MainNavigation';
 
 function App() {
   return (
